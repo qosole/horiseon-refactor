@@ -4,7 +4,7 @@
 
 Horiseon is a marketing agency that helps businesses. The website emphasizes search engine optimization, online reputation management, and social media marketing. The website source code is written so that it follows accessibility standards and is optimized for search engines; for example, it employs semantic html elements and includes accessible alt attributes.
 
-![Website-preview](assets\images\horiseon-snapshot.jpg)
+![Website-preview](/assets/images/horiseon-snapshot.jpg?raw=true)
 
 ## Table of Contents
 
