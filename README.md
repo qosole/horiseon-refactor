@@ -4,6 +4,7 @@
 
 Horiseon is a marketing agency that helps businesses. The website emphasizes search engine optimization, online reputation management, and social media marketing. The website source code is written so that it follows accessibility standards and is optimized for search engines; for example, it employs semantic html elements and includes accessible alt attributes.
 
+![Website-preview](assets\images\horiseon-snapshot.jpg)
 
 ## Table of Contents
 
@@ -20,6 +21,9 @@ If your README is very long, add a table of contents to make it easy for users t
 Use cmd to clone it: ```git clone ```\
 or use the green code dropdown to download a zip
 
+## Usage
+
+https://qosole.github.io/horiseon-refactor/
 
 ## Credits
 
